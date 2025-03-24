@@ -1,5 +1,3 @@
-Perfeito! Aqui está a versão do `README.md` atualizada com as **permissões** ao lado de cada comando, no formato `rocket.essentials`, `fly.essentials`, etc.:
-
 ---
 
 # 📘 Essentials - Configurações e Comandos
