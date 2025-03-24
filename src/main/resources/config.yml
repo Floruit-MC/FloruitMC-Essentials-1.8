@@ -1,0 +1,11 @@
+blocked-commands:
+- "op"
+- "deop"
+- "reload"
+- "stop"
+- "gamemode"
+
+# Lista de itens que não podem ser craftados
+blocked-crafting-items:
+  - TNT
+  - ENDER_PORTAL_FRAME

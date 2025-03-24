@@ -1,0 +1,3 @@
+name: FloruitEssentials
+version: '1.0-SNAPSHOT'
+main: com.hanielcota.essentials.EssentialsPlugin
