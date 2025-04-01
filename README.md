@@ -1,5 +1,3 @@
----
-
 # 📘 Essentials - Configurações e Comandos
 
 O **Essentials** é um plugin fundamental para servidores Minecraft, oferecendo uma ampla variedade de ferramentas administrativas, de proteção e qualidade de vida para jogadores e staff. Abaixo estão listadas as principais **configurações** aplicadas no servidor e os **comandos úteis**, com suas respectivas **permissões**.
@@ -14,9 +12,9 @@ O **Essentials** é um plugin fundamental para servidores Minecraft, oferecendo 
 - 🔥 Propagação de fogo: **desativada**  
 - 💣 Dano de explosões: **desativado**  
 - 🌊 Fluxo de lava e água: **desativado**  
-- ❄️ Derretimento/formação de gelo e neve: **desativado**  
-- 🛏️ Interação com camas: **bloqueada**  
-- 🛑 Comandos de cheat (/op, /deop, /reload, etc.): **bloqueados para jogadores normais**  
+- ❄️ Derretimento/formacao de gelo e neve: **desativado**  
+- 🛎️ Interação com camas: **bloqueada**  
+- 🚫 Comandos de cheat (/op, /deop, /reload, etc.): **bloqueados para jogadores normais**  
 - 💀 Mensagens de morte: **desativadas**  
 
 ---
@@ -26,56 +24,56 @@ O **Essentials** é um plugin fundamental para servidores Minecraft, oferecendo 
 - 🪂 Dano por queda e fome: **desativados**  
 - 🌵 Dano de cactos: **desativado**  
 - 🔥 Dano de fogo e lava: **desativado**  
-- 🪨 Dano por sufocamento: **desativado**  
-- 🕳️ Void: teleporte automático para o spawn  
-- 🧨 Crafting de itens perigosos (TNT, End Crystal, etc.): **bloqueado**  
+- 🫈 Dano por sufocamento: **desativado**  
+- 🥳 Void: teleporte automático para o spawn  
+- 🪨 Crafting de itens perigosos (TNT, End Crystal, etc.): **bloqueado**  
 
 ---
 
 ## 💬 Comandos Úteis
 
 ### 🎮 Jogabilidade e Administração
-- `/gamemode` – Trocar modo de jogo → `gamemode.essentials`  
-- `/tp` – Teleporte para jogadores → `tp.essentials`  
-- `/fly` – Ativar voo → `fly.essentials`  
-- `/kill` – Matar jogadores → `kill.essentials`  
-- `/god` – Ativar modo imortal → `god.essentials`  
-- `/heal` – Curar vida → `heal.essentials`  
-- `/feed` – Restaurar fome → `feed.essentials`  
-- `/speed` – Ajustar velocidade de movimento/voo → `speed.essentials`  
-- `/clear` – Limpar inventário → `clear.essentials`  
-- `/give` – Dar itens → `give.essentials`  
-- `/vanish` – Ficar invisível → `vanish.essentials`  
-- `/invsee` – Ver/editar inventário → `invsee.essentials`  
-- `/hat` – Usar bloco como chapéu → `hat.essentials`  
-- `/repair` – Reparar item instantaneamente → `repair.essentials`  
-- `/top` – Teleporte para o topo → `top.essentials`  
-- `/back` – Voltar ao último local → `back.essentials`  
-- `/lock` – Trancar itens → `lock.essentials`  
-- `/unlock` – Destrancar itens → `unlock.essentials`  
-- `/compactar` – Compactar blocos → `compactar.essentials`  
+- `/gamemode` – Trocar modo de jogo → `essentials.gamemode`  
+- `/tp` – Teleporte para jogadores → `essentials.tp`  
+- `/fly` – Ativar voo → `essentials.fly`  
+- `/kill` – Matar jogadores → `essentials.kill`  
+- `/god` – Ativar modo imortal → `essentials.god`  
+- `/heal` – Curar vida → `essentials.heal`  
+- `/feed` – Restaurar fome → `essentials.feed`  
+- `/speed` – Ajustar velocidade de movimento/voo → `essentials.speed`  
+- `/clear` – Limpar inventário → `essentials.clear`  
+- `/give` – Dar itens → `essentials.give`  
+- `/vanish` – Ficar invisível → `essentials.vanish`  
+- `/invsee` – Ver/editar inventário → `essentials.invsee`  
+- `/hat` – Usar bloco como chapéu → `essentials.hat`  
+- `/repair` – Reparar item instantaneamente → `essentials.repair`  
+- `/top` – Teleporte para o topo → `essentials.top`  
+- `/back` – Voltar ao último local → `essentials.back`  
+- `/lock` – Trancar itens → `essentials.lock`  
+- `/unlock` – Destrancar itens → `essentials.unlock`  
+- `/compactar` – Compactar blocos → `essentials.compactar`  
 
 ### 🔧 Extras e Utilitários
-- `/derreter` – Derreter minérios → `derreter.essentials`  
-- `/luz` – Criar fonte de luz → `luz.essentials`  
-- `/home` – Criar/ir para casa → `home.essentials`  
-- `/tpa` – Solicitar teleporte → `tpa.essentials`  
-- `/ec` – Acessar enderchest → `ec.essentials`  
-- `/bau` – Baú virtual → `bau.essentials`  
-- `/check` – Ver informações do jogador → `check.essentials`  
-- `/alerta` – Enviar alerta visual → `alerta.essentials`  
-- `/cores` – Usar cores no chat → `cores.essentials`  
-- `/puxar` – Puxar jogador → `puxar.essentials`  
-- `/clearChat` – Limpar o chat → `clearchat.essentials`  
-- `/craft` – Usar mesa de trabalho virtual → `craft.essentials`  
-- `/divulgar` – Enviar mensagem de divulgação → `divulgar.essentials`  
-- `/slime` – Ver chunks de slime → `slime.essentials`  
-- `/title` – Enviar título na tela → `title.essentials`  
-- `/head` – Obter cabeças → `head.essentials`  
-- `/vip` – Acessar menu VIP → `vip.essentials`  
-- `/thor` – Invocar relâmpago → `thor.essentials`  
-- `/rocket` – Impulso estilo foguete → `rocket.essentials`
-- `/sit` - Sentar → `sit.essentials`
+- `/derreter` – Derreter minérios → `essentials.derreter`  
+- `/luz` – Criar fonte de luz → `essentials.luz`  
+- `/home` – Criar/ir para casa → `essentials.home`  
+- `/tpa` – Solicitar teleporte → `essentials.tpa`  
+- `/ec` – Acessar enderchest → `essentials.ec`  
+- `/bau` – Baú virtual → `essentials.bau`  
+- `/check` – Ver informações do jogador → `essentials.check`  
+- `/alerta` – Enviar alerta visual → `essentials.alerta`  
+- `/cores` – Usar cores no chat → `essentials.cores`  
+- `/puxar` – Puxar jogador → `essentials.puxar`  
+- `/clearChat` – Limpar o chat → `essentials.clearchat`  
+- `/craft` – Usar mesa de trabalho virtual → `essentials.craft`  
+- `/divulgar` – Enviar mensagem de divulgação → `essentials.divulgar`  
+- `/slime` – Ver chunks de slime → `essentials.slime`  
+- `/title` – Enviar título na tela → `essentials.title`  
+- `/head` – Obter cabeças → `essentials.head`  
+- `/vip` – Acessar menu VIP → `essentials.vip`  
+- `/thor` – Invocar relâmpago → `essentials.thor`  
+- `/rocket` – Impulso estilo foguete → `essentials.rocket`  
+- `/sit` - Sentar → `essentials.sit`  
 
 ---
 
